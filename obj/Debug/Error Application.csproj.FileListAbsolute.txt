@@ -1,0 +1,19 @@
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\bin\Debug\Error Application.exe
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\bin\Debug\Error Application.pdb
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error Application.csprojAssemblyReference.cache
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error_Application.frmStudent.resources
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error_Application.frmStart.resources
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error_Application.frmUser.resources
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error_Application.Properties.Resources.resources
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error Application.csproj.GenerateResource.cache
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error Application.exe
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error Application.pdb
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\bin\Debug\BLL.dll
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\bin\Debug\DAL.dll
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\bin\Debug\BLL.pdb
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\bin\Debug\DAL.pdb
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error Application.csproj.CopyComplete
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error_Application.frmAdmin.resources
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error_Application.AdminLogin.resources
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error_Application.frmLecturer.resources
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\obj\Debug\Error_Application.frmReport.resources

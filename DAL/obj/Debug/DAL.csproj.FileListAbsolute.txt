@@ -1,0 +1,5 @@
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\DAL\bin\Debug\DAL.dll
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\DAL\bin\Debug\DAL.pdb
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\DAL\obj\Debug\DAL.dll
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\DAL\obj\Debug\DAL.pdb
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

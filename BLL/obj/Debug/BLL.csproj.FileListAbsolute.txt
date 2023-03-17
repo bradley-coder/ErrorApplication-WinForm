@@ -1,0 +1,8 @@
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\BLL\bin\Debug\BLL.dll
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\BLL\bin\Debug\BLL.pdb
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\BLL\bin\Debug\DAL.dll
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\BLL\bin\Debug\DAL.pdb
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\BLL\obj\Debug\BLL.dll
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\BLL\obj\Debug\BLL.pdb
+C:\Users\brad8\Desktop\school 2021 second year\Error Application\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
